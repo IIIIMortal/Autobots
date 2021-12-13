@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\APP\ICM42605\Angle_Est.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\APP\ICM42605\LQ_ICM42605.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\APP\ICM42605\LQ_ICM42605.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\APP\LQ_TFT18.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\APP\include.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_GPIO.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_SOFTI2C.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_SOFTSPI.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_SPI.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_SYS.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_TIMER.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_TIMER.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\DRV\LQ_UART.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\My Files\SmartCar\LQ_F3277_Lib 210415\USER\main.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>

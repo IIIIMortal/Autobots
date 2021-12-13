@@ -1,0 +1,1 @@
+void Boot_gyro_and_acc(void);

@@ -1,0 +1,15 @@
+"D:\Program Files (x86)\IAR Systems\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\arm\bin\armjlink2.dll" 
+
+"D:\My Files\SmartCar\LQ_F3277_Lib 210415\IARprj\Debug\Exe\MM32.out" 
+
+--plugin="D:\Program Files (x86)\IAR Systems\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files (x86)\IAR Systems\arm\config\debugger\MindMotion\MM32F3270.dmac" 
+
+--flash_loader="D:\Program Files (x86)\IAR Systems\arm\config\flashloader\MindMotion\FlashMM32F327xGx.board" 
+
+
+
+
